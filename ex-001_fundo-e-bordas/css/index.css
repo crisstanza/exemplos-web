@@ -1,0 +1,36 @@
+div.main, form {
+	padding-top: 30px;
+}
+
+form, h1 {
+	margin: auto;
+	width: 256px;
+}
+
+form button {
+	margin-top: 10px;
+	width: 50%;
+	height: 50px;
+	border: 1px solid #BFBFBF;
+	border-radius: 4px;
+	background-color: #FFF;
+}
+
+div.full {
+	padding-bottom: 40px;
+}
+
+div.full > label {
+	float: left;
+	width: 100%;
+	font-size: 0.8em;
+	color: gray;
+}
+
+div.full input {
+	width: 100%;
+	background-color: transparent;
+	border: none;
+	border-bottom: 1px solid #98c5b8;
+}
+
